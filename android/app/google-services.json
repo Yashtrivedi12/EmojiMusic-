@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "30378690914",
+    "project_id": "music-app-549cd",
+    "storage_bucket": "music-app-549cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30378690914:android:873b500206c90cb7ad443b",
+        "android_client_info": {
+          "package_name": "com.example.emoji_music_player"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw6NayAzvI8lmIcGIn7gdivYAsK6TZSqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30378690914:android:161b028778ab212bad443b",
+        "android_client_info": {
+          "package_name": "com.example.music_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw6NayAzvI8lmIcGIn7gdivYAsK6TZSqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
